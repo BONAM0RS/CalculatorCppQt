@@ -33,8 +33,12 @@ Makefile*
 *build-*
 *.qm
 *.prl
+
 # I add this!
 *.pro
+Debug/
+Release/
+.qtc_clangd/
 
 # Qt unit tests
 target_wrapper.*
