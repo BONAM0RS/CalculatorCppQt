@@ -1,4 +1,4 @@
 # CalculatorCppQt
 Classic Calculator written using the Qt framework
 
-![s](https://ibb.co/0sVGQK8)
+![](https://imgur.com/t9IZ3Hh.png)
